@@ -1,5 +1,8 @@
-### Hi there 👋
+👋 Hi, I’m @Chaoshuai-Li(Chaoshuai Li)
 
+👀 I’m interested in software refactoring, program analysis.
+
+📫 How to reach me li.chaoshuai@foxmail.com
 <!--
 **Chaoshuai-Li/Chaoshuai-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
