@@ -1,4 +1,4 @@
-👋 Hi, I’m 李朝帅
+👋 Hi, I’m Chaoshuai Li.
 
 👀 I’m interested in software refactoring, program analysis.
 
